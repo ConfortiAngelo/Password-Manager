@@ -1,0 +1,11 @@
+# Ignorar archivos de base de datos
+*.db
+
+# Ignorar archivos de caché
+__pycache__/
+*.pyc
+
+# Ignorar entornos virtuales
+venv/
+
+

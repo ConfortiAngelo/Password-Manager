@@ -1,0 +1,20 @@
+
+password_manager_project/
+│
+├── password_manager/
+│   ├── __init__.py
+|   ├── access.py                 # Register y login
+│   ├── password_generator.py     # Generación de contraseñas
+│   ├── storage.py                # Interacción con la base de datos
+│   ├── security.py               # Hashing y salting de contraseñas
+│   └── main.py                   # Punto de entrada principal
+│
+├── tests/
+│   ├── tests.py                  # Pruebas de los scripts
+│   
+│
+├── .gitignore                    
+├── requirements.txt              # Dependencias del proyecto
+├── README.md                     # Documentación del proyecto
+├── FUNCTIONS.md                  # Funciones del proyecto
+└── ARQUITECTURA                  # Arquitectura del proyecto

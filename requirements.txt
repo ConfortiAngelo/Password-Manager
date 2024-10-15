@@ -1,0 +1,6 @@
+# Dependencias del proyecto
+hashlib
+sqlite3
+os
+random
+string
